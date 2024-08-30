@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/fe8b6a0e-7468-4200-a07a-959ac60fa59c)
 <h1 align="center">Hi 👋, I'm manala bharadwaja</h1>
 <h3 align="center">Data Science Graduate | Data Analyst Enthusiast | Salesforce Developer Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
