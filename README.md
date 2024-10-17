@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaja10&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaja10" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **manalabharadwaja@gmail.com**
 
